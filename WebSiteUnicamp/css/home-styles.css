@@ -1,0 +1,98 @@
+*{
+    letter-spacing:1px;
+}
+
+.div-header{
+    padding: 25px;
+    color: #292828;
+    border: none;
+    background-image: linear-gradient(to bottom ,#b0b7be, rgb(214, 214, 214)   );
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.div-logo{
+    width: 280px !important;
+    text-align: center;
+    padding-left: 10px !important;
+}
+
+.img-logo{
+    height: 90px;
+    width: 90px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 24px !important;
+    font-weight: bold !important;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 14px;
+}
+
+/* .div-login-usuario{
+    width: 230px !important;
+}
+
+.div-login-senha{
+    width: 220px !important;
+  
+}
+
+.div-login-botao{
+    width: 60px ;
+} */
+
+.class-btn-entrar{
+    background-color: #1d6daa !important;
+    margin-left: 15px;
+    color: #ffffff;
+}
+
+.p-txt-email{
+    padding: 10px;
+    padding-left: 15px;
+}
+
+.a-txt-senha{
+    padding: 10px;
+    padding-right: 5px;
+    padding-bottom: 0;
+    padding-left: 15px;
+}
+
+.class-input-login{
+    width: 160px;
+    height: 36px;
+}
+
+.col-login{
+    float: right !important;
+}
+
+.a-txt-esqueceu-senha{
+    text-align: right;
+    margin-top: 0 !important;
+    color: #666565 !important;
+}
+
+::-webkit-input-placeholder {
+    color: #C0C0C0 !important;
+ }
+
+.form-group-genero{
+    margin-right: 20px;
+    width:  258px
+}
+
+.apresentacao{
+    border-radius: 0;
+    padding-bottom:110px;
+    margin-bottom:0px; 
+}
+
+.s1{
+    color: red
+}
